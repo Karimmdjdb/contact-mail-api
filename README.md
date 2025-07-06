@@ -27,7 +27,7 @@ The API is deployed at:
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/contact-mail-api.git  
+git clone https://github.com/Karimmdjdb/contact-mail-api.git
 cd contact-mail-api
 ```
 
