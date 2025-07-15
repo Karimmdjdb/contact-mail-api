@@ -1,5 +1,7 @@
 # 📬 Contact Form Mail API
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
 This is a personal backend service built with Node.js and Express. It acts as a mail server for my portfolio’s contact form. When someone submits the contact form, this API receives the form data and performs two actions:
 
 1. Sends me an email with the message details.
